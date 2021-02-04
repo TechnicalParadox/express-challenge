@@ -13,7 +13,7 @@ This project does not currently use a license.
 ## Usage
 Visit deployed URL to launch application.
 
-![Image of site](./readme.png)
+![Image of site](./readme.PNG)
 
 ## Credits
 [Giamo Lao](https://github.com/technicalparadox)
