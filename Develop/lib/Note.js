@@ -6,3 +6,5 @@ class Note
     this.text = text;
   }
 }
+
+module.exports = Note;
